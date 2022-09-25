@@ -201,4 +201,4 @@ handle commands with arguments
 
 ## Authors
 - Raheem Amer
-- Z9Ray
+- Z9RaY
